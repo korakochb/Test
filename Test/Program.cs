@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-public class AlienNumeralsConverter
+public class Test
 {
     private static Dictionary<char, int> symbolValues = new Dictionary<char, int>()
     {
